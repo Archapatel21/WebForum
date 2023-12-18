@@ -1,9 +1,10 @@
 # CS515 Project 3: Web Forum
 
-Archa Patel : apatel20@stevens.edu
+Archa Patel: apatel20@stevens.edu
 
 ## GitHub Repo Link:
 
+https://github.com/Archapatel21/WebForum.git
 
 ## Time Spent
 I spent around 20 hours on the project
